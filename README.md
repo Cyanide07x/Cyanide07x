@@ -35,7 +35,7 @@
 Name      : Utsav Sachan
 Class     : Software Engineer  ──┬──  Data Analyst
 Level     : Entry-level (B.Tech CSE, LNCT Bhopal — June 2026)
-Guild     : Capgemini (Target: Associate Software Engineer)
+Guild     : Target: Associate Software Engineer, Data Analyst ( Role )
 Base      : Pune, Maharashtra, India
 EXP Bonus : Salesforce Certified • AWS Cloud Foundations • Cisco
 Status    : ▓▓▓▓▓▓▓▓░░  Ready to Deploy
