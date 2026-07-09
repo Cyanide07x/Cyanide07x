@@ -35,7 +35,7 @@
 Name      : Utsav Sachan
 Class     : Software Engineer  ──┬──  Data Analyst
 Level     : Entry-level (B.Tech CSE, LNCT Bhopal — June 2026)
-Guild     : Target: Associate Software Engineer, Data Analyst Role
+Guild     : Capgemini (Target: Associate Software Engineer)
 Base      : Pune, Maharashtra, India
 EXP Bonus : Salesforce Certified • AWS Cloud Foundations • Cisco
 Status    : ▓▓▓▓▓▓▓▓░░  Ready to Deploy
@@ -186,13 +186,13 @@ Status    : ▓▓▓▓▓▓▓▓░░  Ready to Deploy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyanide07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=818CF8&text_color=E2E8F0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyanide07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=818CF8&text_color=E2E8F0&cache_seconds=1800" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanide07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanide07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0&cache_seconds=1800" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Cyanide07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=818CF8&fire=F472B6&currStreakLabel=C084FC" />
+<img src="https://streak-stats.demolab.com?user=Cyanide07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=818CF8&fire=F472B6&currStreakLabel=C084FC" />
 
 </div>
 
@@ -231,6 +231,6 @@ Status    : ▓▓▓▓▓▓▓▓░░  Ready to Deploy
 
 *✦ Profile by Utsav Sachan (Cyanide07x) — Powered by caffeine & determination ✦*
 
-![Visitor Badge](https://visitor-badge.liter.workers.dev/badge?page_id=Cyanide07x.Cyanide07x)
+![Profile Views](https://komarev.com/ghpvc/?username=Cyanide07x&color=C084FC&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
