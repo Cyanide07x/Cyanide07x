@@ -186,13 +186,18 @@ Status    : ▓▓▓▓▓▓▓▓░░  Ready to Deploy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyanide07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=818CF8&text_color=E2E8F0&cache_seconds=1800" />
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api?username=Cyanide07x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=818CF8&text_color=E2E8F0&include_all_commits=true&count_private=true&cache_seconds=86400" />
+
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanide07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0&cache_seconds=1800" />
+
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanide07x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Cyanide07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=818CF8&fire=F472B6&currStreakLabel=C084FC" />
+<img
+     src="https://streak-stats.demolab.com?user=Cyanide07x&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=818CF8&fire=F472B6&currStreakLabel=C084FC" />
 
 </div>
 
